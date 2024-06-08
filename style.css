@@ -1,0 +1,40 @@
+.home {
+  background-image: url(./Assets/background-image.png);
+  background-size: cover;
+
+  height: 100vh !important;
+  overflow: hidden;
+}
+
+.container {
+  margin-left: 5rem !important;
+}
+
+h1 {
+  font-size: 4rem !important;
+  margin: 8rem 0 1rem 0 !important;
+}
+
+.icons {
+  gap: 7px !important;
+
+  height: 2rem !important;
+  margin-top: 8rem !important;
+}
+
+.wide-shadow {
+  box-shadow: 3px 10px 10px 5px rgba(0, 0, 0, 0.2) !important;
+}
+.loan-btn {
+  margin: 3rem 0 0 5rem !important;
+}
+
+.col-relative {
+  position: relative !important;
+}
+
+.btn-absolute {
+  position: absolute !important;
+  left: 35rem !important;
+  top: 4rem !important;
+}
